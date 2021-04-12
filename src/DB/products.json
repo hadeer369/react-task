@@ -1,0 +1,203 @@
+{
+  "sorts": [
+    { "id": 0, "name": "none" },
+    { "id": 1, "name": "asc" },
+    { "id": 2, "name": "dsc" }
+  ],
+  "types": [
+    {
+      "id": 0,
+      "name": "All"
+    },
+    {
+      "id": 1,
+      "name": "bag"
+    },
+    {
+      "id": 2,
+      "name": "backbag"
+    },
+    {
+      "id": 3,
+      "name": "shoes"
+    }
+  ],
+  "products": [
+    {
+      "id": 4,
+      "type": "1",
+      "inCart": false,
+      "name": "bag",
+      "count": 0,
+      "price": "444",
+      "img": "https://i.pinimg.com/236x/85/87/7c/85877ca1b209c31a1b0807cddd6232d9.jpg"
+    },
+    {
+      "id": 3,
+      "type": "1",
+      "inCart": false,
+      "name": "bag1",
+      "count": 0,
+      "price": "500",
+      "img": "https://i.pinimg.com/236x/2f/71/83/2f7183df3ff427120e2f1dd52e1c1234.jpg",
+      "catogrie": 1
+    },
+    {
+      "id": 6,
+      "type": "1",
+      "inCart": false,
+      "name": "bagdf",
+      "count": 0,
+      "price": "500",
+      "img": "https://i.pinimg.com/236x/88/62/4a/88624a84236a122d2210120db23ec10a.jpg",
+      "catogrie": 3
+    },
+    {
+      "id": 7,
+      "type": "1",
+      "inCart": false,
+      "name": "bagnh",
+      "count": 6,
+      "price": 2500,
+      "img": "https://i.pinimg.com/236x/12/68/c2/1268c2e18be88bc3cf3a0d83a9641791.jpg"
+    },
+    {
+      "id": 8,
+      "type": "2",
+      "inCart": false,
+      "name": "backbagdf",
+      "count": 6,
+      "price": 6000,
+      "img": "https://i.pinimg.com/236x/8c/9b/cf/8c9bcff0549b6454c07f7c6bc6d587f0.jpg"
+    },
+    {
+      "id": 9,
+      "type": "1",
+      "inCart": false,
+      "name": "bager",
+      "count": 6,
+      "price": 4500,
+      "img": "https://i.pinimg.com/236x/78/98/53/7898533353593b511a80a0a646847142.jpg"
+    },
+    {
+      "id": 10,
+      "type": "3",
+      "inCart": false,
+      "name": "shoes1",
+      "count": 5,
+      "price": "6000",
+      "img": "https://i.pinimg.com/236x/2f/71/83/2f7183df3ff427120e2f1dd52e1c1234.jpg"
+    },
+    {
+      "id": 11,
+      "type": "1",
+      "inCart": false,
+      "name": "bagsd",
+      "count": 5,
+      "price": 6060,
+      "img": "https://i.pinimg.com/236x/67/3b/14/673b1474b9f56a84693bbf2605066e4c.jpg"
+    },
+    {
+      "id": 12,
+      "type": "2",
+      "inCart": false,
+      "name": "backbag2",
+      "count": 5,
+      "price": 1360,
+      "img": "https://i.pinimg.com/236x/1c/7b/ce/1c7bce00bb7ca896f2e25a450872f9e8.jpg"
+    },
+    {
+      "id": 13,
+      "type": "2",
+      "inCart": false,
+      "name": "backbagxy",
+      "count": 5,
+      "price": 600,
+      "img": "https://i.pinimg.com/236x/9f/fe/fc/9ffefc1566c8a287a56c85f1fe09d4a5.jpg"
+    },
+    {
+      "id": 14,
+      "type": "3",
+      "inCart": false,
+      "name": "shoes2",
+      "count": 5,
+      "price": 1200,
+      "img": "https://i.pinimg.com/236x/b0/35/6e/b0356ea2c7f520e56ce384a9a79227a9.jpg"
+    },
+    {
+      "id": 15,
+      "type": "3",
+      "inCart": false,
+      "name": "shoes4",
+      "count": 5,
+      "price": 1660,
+      "img": "https://i.pinimg.com/236x/29/93/a1/2993a1a9926245713b560d68a692e3ad.jpg"
+    },
+    {
+      "id": 17,
+      "type": "2",
+      "inCart": false,
+      "name": "backbag3",
+      "count": 5,
+      "price": 6000,
+      "img": "https://i.pinimg.com/236x/fe/cc/6a/fecc6a1395c51744040aba427e36adc4.jpg"
+    },
+    {
+      "id": 20,
+      "type": "2",
+      "inCart": false,
+      "name": "backbag4",
+      "count": 5,
+      "price": 1600,
+      "img": "https://i.pinimg.com/236x/e0/5c/d9/e05cd9ea5deab5229e64e47a353a3be5.jpg"
+    },
+    {
+      "name": "bagw3",
+      "price": "50000",
+      "img": "https://i.pinimg.com/236x/24/7a/13/247a13a8c60cd8145e76b51f2e1827a8.jpg",
+
+      "type": "1",
+      "count": 5,
+      "inCart": false,
+      "id": 21
+    },
+    {
+      "name": "bagsd",
+      "price": "22000",
+      "img": "https://i.pinimg.com/236x/ce/67/94/ce67949a66e2985dbaf0b94dd36ceb23.jpg",
+      "type": "1",
+      "count": 5,
+      "inCart": false,
+      "id": 22
+    },
+
+    {
+      "id": 24,
+      "name": "shoes9",
+      "price": "2500",
+      "img": "https://i.pinimg.com/236x/f6/da/ee/f6daeea8f070e92016db6c1f3a92e3b7.jpg",
+      "type": "3",
+      "count": 5,
+      "inCart": false
+    },
+
+    {
+      "id": 26,
+      "name": "shoes78",
+      "price": "2500",
+      "img": "https://i.pinimg.com/236x/25/d6/86/25d6869536ff6a127fc92dc8f07bedb4.jpg",
+      "type": "3",
+      "count": 5,
+      "inCart": false
+    },
+    {
+      "id": 27,
+      "name": "backbag8",
+      "price": "2500",
+      "img": "https://i.pinimg.com/236x/a9/96/5c/a9965c29fc07797fdf407424bb507b57.jpg",
+      "type": "2",
+      "count": "20",
+      "inCart": false
+    }
+  ]
+}
